@@ -14,6 +14,9 @@ namespace bt1
                 Console.WriteLine($"Số {sinput} là số nguyên dương");
             }else
                 Console.WriteLine($"Số {sinput} là số nguyên âm");
+
+
+                
         }
     }
 }

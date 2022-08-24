@@ -16,7 +16,6 @@ namespace oop2
             }
             Console.WriteLine("Thí sinh có tổng điểm trên 1 là:");
             aa.tongdiem(aa.getStudent());
-            in
         }
 
     }   
